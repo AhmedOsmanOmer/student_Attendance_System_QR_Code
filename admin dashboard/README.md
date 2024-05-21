@@ -1,14 +1,7 @@
-# fitness_dashboard_ui
+#attendance system admin dashboard 
 
-This is a complete Fitness Dashboard UI built in Flutter. This repository is for education purposes so that you can learn the concepts of how you can create Responsive Dashboards in Flutter.
-
-![Flutter Dashboard](https://github.com/HeyFlutter-Public/Flutter-Fitness-Dashboard-UI/assets/56497715/a34f073e-79c4-4dea-991d-bba6060bc9a8)
-
-
-## Getting Started
-
-This is a complete Fitness Dashboard UI built in Flutter. This repository is for education purposes so that you can learn the concepts of how you can create Responsive Dashboards in Flutter.
-
-Check out our YouTube tutorial to learn more in detail about building Responsive Dashboard apps.
-
-Here's the link: https://youtu.be/fVZqxpNdD6c
+![Screenshot (35)](https://github.com/AhmedOsmanOmer/student_Attendance_System_QR_Code/assets/77662412/f54e1cac-c845-453a-972d-4228a985a6dc)
+![Screenshot (34)](https://github.com/AhmedOsmanOmer/student_Attendance_System_QR_Code/assets/77662412/cca90616-9901-42f2-83a4-465f14486d28)
+![Screenshot (33)](https://github.com/AhmedOsmanOmer/student_Attendance_System_QR_Code/assets/77662412/33e0010c-40d1-4c74-9ef4-ac6362f71d54)
+![Screenshot (37)](https://github.com/AhmedOsmanOmer/student_Attendance_System_QR_Code/assets/77662412/ea150ca3-b31c-454d-97c4-5ab4ea08e613)
+![Screenshot (36)](https://github.com/AhmedOsmanOmer/student_Attendance_System_QR_Code/assets/77662412/ff29ed02-a6ec-4e19-86c8-7fce71840c7a)
